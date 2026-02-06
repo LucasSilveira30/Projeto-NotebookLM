@@ -1,6 +1,8 @@
 # Projeto do NotebookLM
 Caderno temático criado no NotebookLM sobre a inflação, sua história no Brasil e seu impacto em diversas áreas. 
+
 Contém: 
+
 • Resumos em forma de texto, áudio, vídeo e mapa mental.
 • Um guia de estudos com listas de perguntas e um glossário com os conceitos principais do assunto.
 • Cartões didáticos sobre o assunto.
